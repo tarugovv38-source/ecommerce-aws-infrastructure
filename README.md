@@ -261,36 +261,6 @@ Screenshots:
 
 ---
 
-# Project Structure
-
-```
-ecommerce-aws/
-├── README.md
-├── docs/
-│   └── Vitor_Hugo_Tavares_Trabalho01_Cloud.docx
-├── diagrama/
-│   └── ecommerce-aws-diagrama.drawio
-└── prints/
-    ├── vpc-criada.png
-    ├── sub-redes.png
-    ├── internet-gateway.png
-    ├── teste-conectividade.png
-    ├── ec2-instancias.png
-    ├── ec2-web-server-detalhes.png
-    ├── ec2-app-server-detalhes.png
-    ├── s3-bucket.png
-    ├── teste-de-acesso-ao-bucket-s3.png
-    ├── rds-config.png
-    ├── rds-dados.png
-    ├── dynamodb-config.png
-    ├── dynamodb-itens.png
-    ├── ecommerce-sg-web-security-group.png
-    ├── ecommerce-sg-app-security-group.png
-    └── ecommerce-sg-rds-security-group.png
-```
-
----
-
 # Key Cloud Concepts Demonstrated
 
 - Custom VPC design with public and private subnet isolation
