@@ -12,7 +12,7 @@ The infrastructure is organized into a custom VPC with public and private subnet
 
 Architecture diagram:
 
-![Architecture Diagram](diagrama/ecommerce-aws-diagrama.png)
+![Architecture Diagram](diagrama/ecommerce-aws-diagrama.drawio.png)
 
 ---
 
